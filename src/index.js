@@ -4,7 +4,7 @@ import './index.css';
 import MyList from './MyList';
 import reportWebVitals from './reportWebVitals';
 
-const toDos = ["hot mulligan", "purple nurple", "eat fruit"]
+const toDos = ["listen to my neighbor yell :-)", "drink dirt", "walk to china"]
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
